@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ro.uaic.info.georgeboghez.app"},{"l":"ro.uaic.info.georgeboghez.entity"},{"l":"ro.uaic.info.georgeboghez.repo"},{"l":"ro.uaic.info.georgeboghez.util"}]
